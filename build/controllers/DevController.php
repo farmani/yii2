@@ -49,6 +49,8 @@ class DevController extends Controller
         'sphinx' => 'git@github.com:yiisoft/yii2-sphinx.git',
         'swiftmailer' => 'git@github.com:yiisoft/yii2-swiftmailer.git',
         'twig' => 'git@github.com:yiisoft/yii2-twig.git',
+        'queue' => 'git@github.com:yiisoft/yii2-queue.git',
+        'httpclient' => 'git@github.com:yiisoft/yii2-httpclient.git',
     ];
 
 
